@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+### To preview the project 
+#### Live link [https://muzer-lake.vercel.app](https://muzer-lake.vercel.app/) 
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -34,3 +37,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+<p align="center">
+  <img
+    src="https://i.pinimg.com/236x/88/6a/bd/886abd21a105e2811595e7e7ac042a8f.jpg?nii=t"
+    width="350"
+    alt="Thank you uhh"
+  />
+  <br />
+  <b>Thanks for reading 🎧🔥</b>
+</p>
