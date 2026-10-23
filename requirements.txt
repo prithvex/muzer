@@ -1,0 +1,35 @@
+# Muzer — Project Requirements & Dependencies
+# Stack: Next.js 16 + React 19 + TypeScript + Tailwind CSS v4 + Prisma 6 + PostgreSQL + NextAuth v4
+
+# System Requirements:
+# Node.js >= 18.18.0 (Node 20+ or 22+ recommended)
+# PostgreSQL >= 15 (Running on port 15432 or default 5432)
+
+# Frontend & Core Packages (installed via npm):
+next==16.4.2
+react==19.3.0
+react-dom==19.3.0
+next-auth==4.24.15
+zod==4.6.7
+youtube-search-api==2.0.1
+
+# Database & ORM:
+@prisma/client==6.19.3
+prisma==6.19.3
+
+# Styling & Build:
+tailwindcss==4.0.0
+@tailwindcss/turbopack==4.0.0
+typescript==5.0.0
+
+# Environment Configuration (.env):
+# DATABASE_URL="postgresql://muzer_user:muzer_pass_123@localhost:15432/muzer?schema=public"
+# AUTH_GOOGLE_ID="your-google-client-id"
+# AUTH_GOOGLE_SECRET="your-google-client-secret"
+# NEXTAUTH_URL="http://localhost:3000"
+# NEXTAUTH_SECRET="your-nextauth-secret-key"
+
+# Quick Start Commands:
+# 1. Install dependencies: npm install
+# 2. Generate Prisma client: npx prisma generate
+# 3. Start dev server: npm run dev
